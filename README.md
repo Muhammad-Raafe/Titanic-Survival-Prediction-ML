@@ -3,7 +3,7 @@
 An AI-powered web application that predicts whether a Titanic passenger would have survived, using K-Nearest Neighbors classification.
 
 ## 🚀 Live Demo
-[Click here to try the app](#) <!-- Streamlit link yahan paste karna deploy ke baad -->
+https://titanic-survival-prediction-ml-raafe.streamlit.app/
 
 ## 📌 Project Overview
 This project uses machine learning to predict passenger survival probability based on the famous Titanic dataset. The model is trained on 891 passenger records including class, age, sex, fare, and family details.
